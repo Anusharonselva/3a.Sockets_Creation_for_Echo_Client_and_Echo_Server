@@ -44,9 +44,13 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         print('Received', repr(data.decode()))
 ```
 ## OUPUT
+
 SERVER :
+
 ![Screenshot 2024-03-08 160239](https://github.com/Anusharonselva/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/119405600/a41801d2-49c1-4013-85e9-be80559343b5)
+
 CLIENT :
+
 ![Screenshot 2024-03-08 160251](https://github.com/Anusharonselva/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/119405600/01bf1063-b52e-4220-8ea5-e62752f373c7)
 
 
